@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/Akshithpottigari/backend-template-generator.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "Akshithpottigari",
   "dependencies": {
     "inquirer": "^8.0.0"
