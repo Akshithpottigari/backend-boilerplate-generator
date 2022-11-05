@@ -17,6 +17,14 @@ Installing globally:
   $ npm i -g backend-template-generator
 ```
 
+And after that run:
+
+Installing globally:
+```bash
+  $ cd <project-location>
+  $ npm install
+```
+
 Using btg:
 
 1. Run the below command:
