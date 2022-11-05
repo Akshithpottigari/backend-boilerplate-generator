@@ -1,5 +1,5 @@
 {
-  "name": "@akshithpottigari/btg",
+  "name": "btg",
   "version": "1.0.0",
   "description": "Project for instantiating projects via cli",
   "main": "index.js",
