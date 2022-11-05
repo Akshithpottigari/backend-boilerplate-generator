@@ -1,5 +1,5 @@
 {
-  "name": "btg",
+  "name": "@akshithpottigari/btg",
   "version": "1.0.0",
   "description": "Project for instantiating projects via cli",
   "main": "index.js",
@@ -13,10 +13,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshithpottigari/backend-template-generator.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
+    "url": "https://github.com/Akshithpottigari/backend-template-generator.git"
   },
   "author": "Akshithpottigari",
   "dependencies": {
