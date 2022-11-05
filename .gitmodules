@@ -1,3 +1,6 @@
 [submodule "templates/express-typescript"]
 	path = templates/express-typescript
 	url = https://github.com/Akshithpottigari/express-typescript-jwt-bcrypt-template.git
+[submodule "templates/nestjs-template"]
+	path = templates/nestjs-template
+	url = https://github.com/Akshithpottigari/nestjs-template.git
