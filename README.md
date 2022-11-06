@@ -9,27 +9,26 @@ This package creates a boilerplate code which in turn, reduces the time in setti
 Install Backend Generator:
 
 ```bash
-  $ npm i backendGenerator
+  $ npm i backendgenerator
 ```
 
 Installing globally:
 ```bash
-  $ npm i -g backendGenerator
+  $ npm i -g backendgenerator
 ```
 
 And after that run:
 
-Installing globally:
 ```bash
   $ cd <project-location>
   $ npm install
 ```
 
-Using backendGenerator:
+Using backendgenerator:
 
 1. Run the below command:
 ```bash
-  $ backendGenerator
+  $ backendgenerator
 ```
 
 2. Choose the templates which you think it'll suit best for your project.
