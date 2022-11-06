@@ -1,4 +1,4 @@
-# Backend Template Generator
+# Backend Boilerplate Generator
 
 
 Pretty simple and straight forward setup.
