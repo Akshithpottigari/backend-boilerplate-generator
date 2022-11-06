@@ -1,4 +1,4 @@
-# Backend Boilerplate Generator
+# Backend Generator with auth
 
 
 Pretty simple and straight forward setup.
@@ -6,15 +6,15 @@ Pretty simple and straight forward setup.
 This package creates a boilerplate code which in turn, reduces the time in setting up any Express Server which requires TypeScript, JWT and Authorization.
 ## Installation
 
-Install Backend Template Generator with npm:
+Install Backend Generator:
 
 ```bash
-  $ npm i backend-template-generator
+  $ npm i backendGenerator
 ```
 
 Installing globally:
 ```bash
-  $ npm i -g backend-template-generator
+  $ npm i -g backendGenerator
 ```
 
 And after that run:
@@ -25,11 +25,11 @@ Installing globally:
   $ npm install
 ```
 
-Using btg:
+Using backendGenerator:
 
 1. Run the below command:
 ```bash
-  $ btg
+  $ backendGenerator
 ```
 
 2. Choose the templates which you think it'll suit best for your project.
@@ -37,7 +37,7 @@ Using btg:
 
 
 
-Run the application:
+Starting server / run the application:
 ```bash
   $ cd <project-location>
   $ npm run start
