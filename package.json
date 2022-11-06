@@ -1,5 +1,5 @@
 {
-  "name": "backendgenerator",
+  "name": "@akshith_pottigari/backendgenerator",
   "version": "1.0.0",
   "description": "Project for instantiating projects via cli",
   "main": "index.js",

@@ -9,12 +9,12 @@ This package creates a boilerplate code which in turn, reduces the time in setti
 Install Backend Generator:
 
 ```bash
-  $ npm i backendgenerator
+  $ npm i @akshith_pottigari/backendgenerator
 ```
 
 Installing globally:
 ```bash
-  $ npm i -g backendgenerator
+  $ npm i -g @akshith_pottigari/backendgenerator
 ```
 
 And after that run:
