@@ -1,10 +1,10 @@
 {
-  "name": "backendGenerator",
+  "name": "backendgenerator",
   "version": "1.0.0",
   "description": "Project for instantiating projects via cli",
   "main": "index.js",
   "bin": {
-    "backendGenerator": "./index.js"
+    "backendgenerator": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
